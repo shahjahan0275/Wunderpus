@@ -20,11 +20,10 @@ To obtain the dataset structure and preprocessing pipeline, please follow the in
 
 https://github.com/secml-lab-vt/EvolvingThreat-DeepfakeImageDetect
 
-After preparing the dataset according to their instructions, place our attack scripts in the corresponding attack directory and execute the commands described below.
+After preparing the dataset according to their instructions, place our attack scripts in the corresponding attack directory and execute the commands as described by Abdullah et al.
 
 # Reproducing Results
 
 The repository contains all code necessary to reproduce the attack generation reported in the paper.
 
-Please refer to the experiment-specific folders for the commands corresponding to each table and figure.
 
