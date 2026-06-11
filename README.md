@@ -1,5 +1,5 @@
 # Wunderpus
-## This repository contains the code and sample data required to evaluate the implementation. Additional artifacts may be released after the review process.
+## This code is sample only. All the codes required to produce all the datasets will be released in the future.
 # Installation
 
 ```bash
