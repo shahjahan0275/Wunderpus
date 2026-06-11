@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 # Dataset Preparation
 
-The adversarial examples used in this work are generated from the non-adversarial fake datasets introduced by Abdullah et al.
+The adversarial examples used in this work are generated from the non-adversarial fake datasets introduced by Abdullah et al.The size of the full non-adversarial fake datasets exceeds the storage limitations of the repository platform. However, we provide sample images sufficient for running the code, though not for full reproducibility of our results.
 
 To obtain the dataset structure and preprocessing pipeline, please follow the instructions provided in the Evolving Threat repository:
 
