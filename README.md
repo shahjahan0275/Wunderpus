@@ -24,7 +24,7 @@ After preparing the dataset according to their instructions, place our attack sc
 
 # Reproducing Results
 
-The repository contains all code necessary to reproduce the attack generation and evaluation results reported in the paper.
+The repository contains all code necessary to reproduce the attack generation reported in the paper.
 
 Please refer to the experiment-specific folders for the commands corresponding to each table and figure.
 
