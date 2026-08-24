@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+*.swp
+*~
+
+# Experiment outputs
+wandb/
+runs/
+logs/
+
+# Nested Git metadata
+.git/
