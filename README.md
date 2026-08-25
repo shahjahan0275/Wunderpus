@@ -20,7 +20,7 @@ The pretrained model weights are hosted on Zenodo for permanent archival access.
 
 ### Wuderpus_weights
 
-[Download pretrained weights from Zenodo](https://doi.org/10.5281/zenodo.XXXXXXXX)
+The pretrained weights will be made available through Zenodo at the permanent artifact DOI.
 
 The downloaded archive should be extracted as:
 
@@ -70,7 +70,7 @@ Path for folder "stylegan2-pytorch_stylegan2-pytorch_editings_interfacegan_direc
 
 ## Dataset Preparation
 
-The adversarial examples used in this work are generated from the non-adversarial fake datasets introduced by Abdullah et al. Due to repository size constraints, only representative samples are included. The full datasets could be obtained from Abdullah et al. However, we provide sample images sufficient for running the code, though not for full reproducibility of our results. Also we have included only representative samples of all the 19 Attack datasets that we have produced due to the repository size constraints, which should be enough to test the functionality of the code.
+The adversarial examples used in this work are generated from the non-adversarial fake datasets introduced by Abdullah et al.[1] Due to repository size constraints, only representative samples are included from this non-adversarial fake dataset. The original non-adversarial datasets can be obtained from Abdullah et al.[1]. However, we provide sample images sufficient for running the code, though not for full reproducibility of our results. Also we have included only representative samples of all the 19 Attack datasets that we have produced due to the repository size constraints, which should be enough to test the functionality of the code.
 
 To obtain the dataset structure and preprocessing pipeline, we followed the instructions provided in the Evolving Threat repository:
 
@@ -131,6 +131,12 @@ Our code makes references to the following repositories.Also to test our attacks
 - [SPAI] (https://github.com/mever-team/spai)
 - [UnivConv2B] (https://github.com/secml-lab-vt/EvolvingThreat-DeepfakeImageDetect).
 - [ViGText] (https://github.com/AhmadALBarqawi/ViGText).
+
+## References
+
+[1] Abdullah, Sifat Muhammad, et al.
+    "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape."
+    IEEE Symposium on Security and Privacy (SP), 2024.
 
 
 
